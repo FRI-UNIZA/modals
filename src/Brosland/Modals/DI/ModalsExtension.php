@@ -4,7 +4,7 @@ namespace Brosland\Modals\DI;
 
 use Brosland\Modals\UI\Modal,
 	Nette\DI\CompilerExtension,
-	Nette\Reflection\ClassType;
+	Nette\PhpGenerator\ClassType;
 
 class ModalsExtension extends CompilerExtension
 {
