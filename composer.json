@@ -1,5 +1,5 @@
 {
-	"name": "brosland/modals",
+	"name": "fri-uniza/modals",
 	"description": "The implementation of Bootstrap modals for Nette framework.",
 	"keywords": ["brosland", "modals", "bootstrap", "nette"],
 	"homepage": "http://bros.land",
@@ -15,6 +15,6 @@
 	},
 	"require": {
 		"php": ">= 5.5",
-		"nette/nette": "~2.3"
+		"nette/nette": "~2.4"
 	}
 }
